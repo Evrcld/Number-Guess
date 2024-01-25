@@ -34,13 +34,5 @@ int main()
     printf("It took you : %d attempts\n", attempts);
     printf("**************\n");
 
-    
-
-    
-    
-
-
-
-
     return 0;
 }

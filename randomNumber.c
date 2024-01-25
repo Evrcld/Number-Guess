@@ -2,12 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-
-
-
-
-
-int main()
+int main() 
 {
     srand(time(0));
     int number = rand() %100;
